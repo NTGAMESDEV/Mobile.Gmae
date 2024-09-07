@@ -1,0 +1,18 @@
+{
+  "downloadfilemain":[
+    {
+      "filename":"",
+      "size":"",
+      "path":"",
+      "url":""
+    },
+  ]
+ "updateserver":[
+   {
+     "filename":"",
+     "version":"",
+     "url":"",
+     "size":""
+   },
+ ]
+}
