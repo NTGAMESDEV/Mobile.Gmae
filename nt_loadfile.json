@@ -1,0 +1,10 @@
+{
+    "clientVersionCode": 1,
+    "clientSampVersionCode": 1,
+    "gameFilesVersionCode": 1,
+    "URL_GAME_FILES" : "http://85.203.4.138/LEGENDGAME/ntgamefile.zip",
+    "URL_GAME_FILES_UPD" : "http://85.203.4.138/LEGENDGAME/ntupdategame.zip",
+    "URL_CLIENT": "", 
+    "URL_CLIENTSAMPAPK": ""
+
+}
