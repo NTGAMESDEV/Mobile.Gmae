@@ -4,6 +4,9 @@
     "gameFilesVersionCode": 0,
     "URL_GAME_FILES" : "https://www.dropbox.com/scl/fi/pot8luyrymnp32tcavyg1/ntgame.zip?rlkey=6oxdxs7eym4iv9dmetlmorojf&st=z0xqt7ij&dl=1",
     "URL_GAME_FILES_UPD" : "http://85.203.4.138/LEGENDGAME/ntupdategame.zip",
+    "url_launcher": "https://gta-raygus.com/API/MOBILE/app-debug.apk",
+    "version_launcher": "1.4.6",
+    "url_game": "https://gta-raygus.com/API/MOBILE/list_game.json",
     "URL_CLIENT": "", 
     "URL_CLIENTSAMPAPK": ""
 
