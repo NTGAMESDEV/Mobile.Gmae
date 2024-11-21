@@ -1,8 +1,14 @@
 {
     "clientVersionCode": 1,
     "clientSampVersionCode": 0,
-    "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "http://45.83.207.46/ntgamefile.zip",
+    "gameFilesVersionCode": 2,
+    "URL_GAME_FILES" : "http://45.83.207.46/gamefiles.zip",
     "URL_GAME_FILES_UPD" : "http://45.83.207.46/files_upd.zip",
-    "URL_CLIENT": ""
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://discord.gg/",
+    "URL_YOUTUBE": "",
+    "URL_FORUM": "",
+    "URL_DONATE": "",
+    "URL_CLIENT": "http://45.83.207.46/launcher.apk",
+    "URL_CLIENTSAMPAPK": "http://45.83.207.46/client.apk"
 }
