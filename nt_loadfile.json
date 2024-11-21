@@ -5,8 +5,4 @@
     "URL_GAME_FILES" : "http://45.83.207.46/ntgamefile.zip",
     "URL_GAME_FILES_UPD" : "http://45.83.207.46/files_upd.zip",
     "URL_CLIENT": "", 
-    "NT_IPSERVER":"gta-irz.com",
-    "NT_PORT":"7777",
-    "URL_CLIENTSAMPAPK": ""
-
 }
