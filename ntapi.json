@@ -1,18 +1,8 @@
 {
-  "downloadfilemain":[
-    {
-      "filename":"",
-      "size":"",
-      "path":"",
-      "url":""
-    },
-  ]
- "updateserver":[
-   {
-     "filename":"",
-     "version":"",
-     "url":"",
-     "size":""
-   },
- ]
+    "clientVersionCode": 0,
+    "clientSampVersionCode": 0,
+    "gameFilesVersionCode": 1,
+    "URL_GAME_FILES" : "https://www.dropbox.com/scl/fi/woht5urve9hgqlliwxy3x/cache.zip?rlkey=5tv0pjf0ot2kym60jr7qacb4i&st=jpqzv2st&dl=1",
+    "URL_GAME_FILES_UPD" : "",
+    "URL_CLIENT": "",
 }
