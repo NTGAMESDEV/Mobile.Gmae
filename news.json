@@ -1,10 +1,12 @@
 [
    {
-        "image" : "http://a0863276.xsph.ru/EUyR-GdklL8.jpg",
-        "title" : "Вы просили? Мы сделали"
-   },
+		"title": "ข่าว1",
+		"image": "http://a0863276.xsph.ru/fqKYHZMeYEI.jpg",
+		"link": "https://vk.com/cr_rustate"
+	},
    {
-        "image" : "http://a0863276.xsph.ru/fqKYHZMeYEI.jpg",
-        "title" : "Подпишись на VK: Vendetta Studio"
-   }
+		"title": "ข่าว2",
+		"image": "http://a0863276.xsph.ru/fqKYHZMeYEI.jpg",
+		"link": "https://vk.com/cr_rustate"
+	}
 ]
